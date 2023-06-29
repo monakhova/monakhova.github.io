@@ -1,12 +1,12 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Kristina is selected as a <a href="https://eecs.berkeley.edu/rising-stars-2020">2020 EECS Rising Star</a>! 
+date: 2020-10-01 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Kristina is selected as a <a href="https://eecs.berkeley.edu/rising-stars-2020">2020 EECS Rising Star</a>! 
 
 ***
 

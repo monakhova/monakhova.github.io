@@ -2,16 +2,24 @@
 ---
 <!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
+        <div class="col-sm-4 {% if entry.preview %}preview{% else %}abbr{% endif %}">
         {%- if entry.preview -%}
-          {% if entry.preview contains '://' -%}
+		  {% if entry.preview contains '://' -%}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
           {%- else -%}
+		    {% if entry.preview contains 'mp4' -%}
+			{%- assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' -%}
+			{% include video.html 
+				path=entry_path 
+				class="img-fluid z-depth-1 rounded" 
+				controls=true autoplay=true muted=true %}
+			{%- else -%}
             {%- assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' -%}
-            {% include figure.html
-            path=entry_path
-            class="preview z-depth-1 rounded"
-            alt=entry.preview -%}
+              {% include figure.html
+              path=entry_path
+              class="preview z-depth-1 rounded"
+              alt=entry.preview -%}
+			  {%- endif -%}
           {%- endif -%}
         {%- elsif entry.abbr -%}
           {%- if site.data.venues[entry.abbr] -%}

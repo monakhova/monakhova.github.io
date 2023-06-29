@@ -8,10 +8,18 @@
       {%- endif %}
       <div class="card hoverable">
         {%- if project.img %}
+	    {% if project.img contains 'mp4' -%}
+		{%- assign entry_path = project.img -%}
+		{% include video.html 
+			path=entry_path 
+			class="img-fluid z-depth-1 rounded" 
+			controls=true autoplay=true muted=true %}
+		{%- else -%}
         {%- include figure.html
           path=project.img
           alt="project thumbnail" -%}
         {%- endif %}
+		{%- endif %}
         <div class="card-body">
           <h2 class="card-title text-lowercase">{{ project.title }}</h2>
           <p class="card-text">{{ project.description }}</p>
