@@ -47,7 +47,7 @@ If you're currently a PhD student at Cornell and you're interested in the lab, s
 	  <li>Please indicate whether you will need funding or not. </li>
 	</ul>
 </p>
-<h3 class="category">Current Cornell undergraduate students</h3>
+<h3 class="category">Undergraduate students</h3>
 <p>
 I will be looking for undergraduate students to work with starting in Fall 2024. Check back in summer 2024 for more information. </p>
 
