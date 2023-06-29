@@ -4,7 +4,6 @@ permalink: /kristina/
 title: PI
 nav: false
 nav_order: 1
-subtitle: <a href='#'>Affiliations</a>. Cornell imaging lab
 category: PI
 
 profile:
@@ -29,8 +28,8 @@ profile:
             alt=page.profile.image -%}   
           <div class="address">
 		 <p> <span class="font-weight-bold"> </span></p>
-	      <p>Gates Hall</p>
-	      <p>Ithaca, NY</p>
+	      <!--<p>Gates Hall</p>
+	      <p>Ithaca, NY</p>-->
             <div class="social">
               <div class="contact-icons">
                 {% include social.html %}
@@ -42,7 +41,7 @@ profile:
           <h1 class="post-title">
            {{ site.first_name }} <span class="font-weight-bold">{{ site.last_name }}</span>  , Ph.D.
           </h1>
-      <p><b>Assistant Professor</b> (starting Fall 2024) <br> Computer Science <br> Cornell University</p>
+      <p><b>Assistant Professor</b> (starting Fall 2024) <br> Department of Computer Science <br> Cornell University</p>
 	  </header>
 
 </div>
@@ -53,7 +52,9 @@ I am an incoming Assistant Professor in the <a href="http://www.cs.cornell.edu/"
 <p>
 I obtained my PhD in Electrical Engineering and Computer Sciences from UC Berkeley with <a href="http://www.laurawaller.com/">Laura Waller</a>. During my PhD, I was affiliated with the Berkeley Artificial Intelligence Research (BAIR) Lab and was supported by the NSF GRFP fellowship. My PhD dissertation was on <a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-177.html">Physics-Informed Machine Learning for Computational Imaging</a>.</p>
 
-
+<p>
+For Cornell related topics, feel free to email me at km967[at]cornell.edu. For MIT related topics, feel free to email me at monakho[at]mit.edu
+</p>
 
 <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
 {%- include news.html limit=true %}

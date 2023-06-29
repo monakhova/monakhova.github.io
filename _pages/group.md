@@ -12,7 +12,7 @@ horizontal: false
 
 <!-- pages/group.md -->
 <!-- Display projects without categories -->
-<h2>Team</h2>
+<h1 class="post-title">team </h1>
 <div class="projects">
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
