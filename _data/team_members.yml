@@ -5,8 +5,8 @@
   category: Professor
   education: PhD EECS, UC Berkeley, 2022
   importance: 1
-  website: https://kristinamonakhova.com/
-  redirect: ../kristina
+  website: https://kristinamonakhova.com/kristina/
+  redirect: https://kristinamonakhova.com/kristina/
 
 - name: Join Us!
   img: assets/img/thorlabs.png
