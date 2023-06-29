@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://monakhova.github.com/sitemap.xml
+Sitemap: https://monakhova.github.io/sitemap.xml
