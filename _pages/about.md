@@ -13,7 +13,7 @@ project_categories: [Compressive multidimensional imaging, Physics-informed mach
 ---
 {% include figure.html path='assets/img/codesign.png' width="100%"-%}
 
-We combine ideas from machine learning, signal processing, optics, computer vision and physics to build better imaging systems (cameras, microscopes, and telescopes) through the <b>co-design of optics, algorithms, and high-level tasks</b>. Our aim is to design the next generation of smart, computational imagers that fuel scientific discovery, robotics, and medical diagnostics. We are particularly interested in:
+We combine ideas from machine learning, signal processing, optics, computer vision and physics to build better imaging systems (cameras, microscopes, and telescopes) through the <span class="font-weight-bold">co-design of optics, algorithms, and high-level tasks</span>. Our aim is to design the next generation of smart, computational imagers that fuel scientific discovery, robotics, and medical diagnostics. We are particularly interested in:
 
 <ul>
 <li> <span class="font-weight-bold">Differentiable optics</span> - Can we use data and machine learning tools to design better cameras, microscopes, and telescopes?</li>
