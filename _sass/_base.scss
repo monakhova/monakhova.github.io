@@ -19,10 +19,15 @@ strong {
   color: var(--global-text-color);
 }
 
+mark {
+  background-color: var(--global-mark-bg-color);
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
+  
 table {
   td,
   th {
@@ -452,7 +457,7 @@ footer.sticky-bottom {
       font-size: 0.875rem;
       padding-top: 0.25rem;
       padding-bottom: 0;
-    }
+    }x
 
     a {
       color: var(--global-text-color);

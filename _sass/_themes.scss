@@ -16,6 +16,7 @@
   --global-distill-app-color: #{$grey-color};
   --global-divider-color: rgba(0,0,0,.1);
   --global-card-bg-color: #{$white-color};
+  --global-mark-bg-color: #ffd6d6;
 
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;
@@ -74,6 +75,7 @@ html[data-theme='dark'] {
   --global-danger-block-bg: #ffe0e0;
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
+  --global-mark-bg-color: #{$cyan-color};
 
   .fa-sun {
     padding-left: 10px;

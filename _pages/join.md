@@ -21,7 +21,7 @@ We are looking for motivated researchers interested in designing novel cameras a
 <div class ="col-sm-8">-->
 
 <h2 class="category">Prospective PhD students</h2>
-<mark><span class="font-weight-bold">I'm looking to hire several PhD students to start in Fall 2024.</span></mark> If you'd like to work with me, apply directly to the <a href="https://www.cs.cornell.edu/phd/admissions">CS department</a> and mention my name in your application. I look forward to talking to you once you are admitted!
+<mark><strong>I'm looking to hire several PhD students to start in Fall 2024.</strong></mark> If you'd like to work with me, apply directly to the <a href="https://www.cs.cornell.edu/phd/admissions">CS department</a> and mention my name in your application. I look forward to talking to you once you are admitted!
 
 <p>
 The PhD program is fully funded (check out an estimate of the CS stipends vs. cost of living in Ithaca <a href="https://csstipendrankings.org/">here</a>), but I also recommend all PhD students to apply to graduate fellowships since this will give you more flexibility throughout your PhD. For domestic students, the most common fellowships are the <a href="https://www.nsfgrfp.org/">NSF GRFP</a> and the <a href = "https://ndseg.org/">NDSEG</a>. For a broader list of fellowships, please see <a href = "https://gradschool.cornell.edu/financial-support/fellowships/">Cornell's page on graduate fellowships</a> and this <a href = "https://github.com/chinasaokolo/csGraduateFellowships">curated list of CS fellowships</a>.  </p>
