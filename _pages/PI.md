@@ -53,7 +53,7 @@ I am an incoming Assistant Professor in the <a href="http://www.cs.cornell.edu/"
 I obtained my PhD in Electrical Engineering and Computer Sciences from UC Berkeley with <a href="http://www.laurawaller.com/">Laura Waller</a>. During my PhD, I was affiliated with the Berkeley Artificial Intelligence Research (BAIR) Lab and was supported by the NSF GRFP fellowship. My PhD dissertation was on <a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-177.html">Physics-Informed Machine Learning for Computational Imaging</a>.</p>
 
 <p>
-For Cornell related topics, feel free to email me at km967[at]cornell.edu. For MIT related topics, feel free to email me at monakho[at]mit.edu
+For Cornell related topics, feel free to email me at monakhova[at]cornell.edu. For MIT related topics, feel free to email me at monakho[at]mit.edu
 </p>
 
 <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
