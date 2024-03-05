@@ -37,20 +37,8 @@ Excellent postdoctoral candidates are encouraged to email me with the subject li
 I encourage you to apply for a postdoctoral fellowship and am happy to work with you on this. <br><br> </p>
 
 <h2 class="category">Current Cornell students</h2>
-<h3> PhD students</h3>
-<p>
-If you're currently a PhD student at Cornell and you're interested in the lab, send me an email with the subject line <b>"Current PhD Student"</b> and the information below:
-	<ul>
-	  <li>Your CV and list of classes taken.</li>
-	  <li>A brief description of why you are interested in the lab.</li>
-	  <li>Experience or background (if any) in computational imaging, optics, signal processing, computer vision, or machine learning. Prior experience is not a prerequisite, but knowing your background can help with finding a fit.</li> 
-	  <li>Please indicate whether you will need funding or not. </li>
-	</ul>
-</p>
-<h3 class="category">Undergraduate students</h3>
-<p>
-I will be looking for undergraduate students to work with starting in Fall 2024. Check back in summer 2024 for more information. </p>
-
+<span class="font-weight-bold">Cornell PhD students</span>: Send me an email and we can set up a time to chat! <br>
+<span class="font-weight-bold">Cornell undergraduate students</span>: I will be looking for undergraduate students to work with starting in Fall 2024. Check back in summer 2024 for more information.
 
 <h2 class="category"><a id="shared-values">Shared Values</a></h2>
 As a group we value:
