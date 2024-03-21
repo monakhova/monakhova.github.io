@@ -8,6 +8,18 @@
   website: https://kristinamonakhova.com/kristina/
   redirect: https://kristinamonakhova.com/kristina/
 
+#- name: Shamus Li 
+#  img: assets/img/ShamusLi.jpg
+#  info: PhD Student, Computer Science <br>
+#        MS, EECS UC Berkeley, 2024 <br>
+#        BS, EECS, UC Berkeley, 2023
+#  education: BS, EECS, UC Berkeley, 2023
+#  email: 
+#  category: PhD students
+#  importance: 1
+#  website: https://www.linkedin.com/in/shamus-li/
+#  redirect:  ../join
+
 - name: Join Us!
   img: assets/img/thorlabs.png
   info: Click image for more info!

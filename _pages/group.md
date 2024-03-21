@@ -2,11 +2,11 @@
 layout: default
 title: team
 permalink: /team/
-description: We're hiring! If you'd like to join us, find more infomration at pages
+description: We're hiring! If you'd like to join us, find more information at pages
 nav: true
 nav_order: 5
-display_categories: [Professor, Postdocs and Visiting Scholars, PhD students, Alumni]
-display_alumni: [Undergraduates mentored at UC Berkeley]
+display_categories: [Professor, PhD students, Alumni]
+display_alumni: [Undergraduates mentored at MIT, Undergraduates mentored at UC Berkeley]
 horizontal: false
 ---
 

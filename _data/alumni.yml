@@ -34,6 +34,13 @@
   importance: 2
   website: https://www.linkedin.com/in/vi-tran-125230167/
 
+- name: Cassandra Ye
+  info: currently at MIT
+  education:
+  category: Undergraduates mentored at MIT
+  importance: 2
+  website: https://cassandra-t-ye.github.io/
+
 - name: Test PhD Alumni
   info: now at Google
   education:
