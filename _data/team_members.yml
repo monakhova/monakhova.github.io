@@ -19,6 +19,16 @@
   website: https://shamus.li/ 
   redirect: https://shamus.li/
 
+- name: Cassandra T. Ye
+  img: assets/img/cassandra_square.jpg
+  info: PhD Student, Computer Science <br>
+        BS, Computer Science and Engineering, MIT, 2024
+  email: ty392@cornell.edu
+  category: PhD students
+  about: 1
+  website: https://cassandra-t-ye.github.io/
+  redirect: https://cassandra-t-ye.github.io/
+
 #- name: Yujin Lee
 #  img: assets/img/ylee.jpeg
 #  info: PhD Student, Computer Science <br>
