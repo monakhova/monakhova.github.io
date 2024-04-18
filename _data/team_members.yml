@@ -1,6 +1,6 @@
 - name: Kristina Monakhova, Ph.D.
   img: assets/img/Kristina_Monakhova.jpg
-  info: Principal Investigator <br> Assistant Professor of Computer Science, Cornell University (starting Fall 2024)
+  info: Principal Investigator <br> Assistant Professor of Computer Science, Cornell University (starting Fall 2024) 
   email: monakhova[at]cornell.edu
   category: Professor
   education: PhD EECS, UC Berkeley, 2022
@@ -8,16 +8,35 @@
   website: https://kristinamonakhova.com/kristina/
   redirect: https://kristinamonakhova.com/kristina/
 
-#- name: Shamus Li 
-#  img: assets/img/ShamusLi.jpg
+- name: Shamus Li 
+  img: assets/img/Shamus.jpg
+  info: PhD Student, Computer Science <br>
+        MS, EECS, UC Berkeley, 2024 <br>
+        BS, EECS, UC Berkeley, 2023
+  email: wl757@cornell.edu 
+  category: PhD students
+  about: 1
+  website: https://shamus.li/ 
+  redirect: https://shamus.li/
+
+#- name: Yujin Lee
+#  img: assets/img/ylee.jpeg
 #  info: PhD Student, Computer Science <br>
-#        MS, EECS UC Berkeley, 2024 <br>
-#        BS, EECS, UC Berkeley, 2023
-#  education: BS, EECS, UC Berkeley, 2023
+#        BS EE, Yonsei University, 2024 <br>
 #  email: 
 #  category: PhD students
 #  importance: 1
-#  website: https://www.linkedin.com/in/shamus-li/
+#  website: https://www.yujinlee.net
+#  redirect:  ../join
+
+#- name: Hasindu Piyumantha
+#  img: assets/img/hasindu.jpeg
+#  info: PhD Student, Computer Science <br>
+#        BS, EE, University of Moratuwa, 2022 <br>
+#  email: 
+#  category: PhD students
+#  importance: 1
+#  website: https://lk.linkedin.com/in/hasindu-kariyawasam-519b7918b 
 #  redirect:  ../join
 
 - name: Join Us!
@@ -33,7 +52,7 @@
   img: assets/img/thorlabs.png
   info: Click image for more info!
   education:
-  category: PhD students
+  category: Postdocs and Visiting Scholars
   importance: 4
   website: ../join
   redirect: ../join
