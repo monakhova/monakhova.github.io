@@ -29,15 +29,15 @@
   website: https://cassandra-t-ye.github.io/
   redirect: https://cassandra-t-ye.github.io/
 
-#- name: Yujin Lee
-#  img: assets/img/ylee.jpeg
-#  info: PhD Student, Computer Science <br>
-#        BS EE, Yonsei University, 2024 <br>
-#  email: 
-#  category: PhD students
-#  importance: 1
-#  website: https://www.yujinlee.net
-#  redirect:  ../join
+- name: Yujin (Haley) Lee
+  img: assets/img/yujin_square.jpg
+  info: PhD Student, Computer Science <br>
+        BS, EE, Yonsei University, 2024 <br>
+  email: yl3836@cornell.edu
+  category: PhD students
+  importance: 1
+  website: https://www.yujinlee.net
+  redirect: https://www.yujinlee.net
 
 #- name: Hasindu Piyumantha
 #  img: assets/img/hasindu.jpeg
