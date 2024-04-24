@@ -39,15 +39,15 @@
   website: https://www.yujinlee.net
   redirect: https://www.yujinlee.net
 
-#- name: Hasindu Piyumantha
-#  img: assets/img/hasindu.jpeg
-#  info: PhD Student, Computer Science <br>
-#        BS, EE, University of Moratuwa, 2022 <br>
-#  email: 
-#  category: PhD students
-#  importance: 1
-#  website: https://lk.linkedin.com/in/hasindu-kariyawasam-519b7918b 
-#  redirect:  ../join
+- name: Hasindu Kariyawasam
+  img: assets/img/hasindu.jpg
+  info: PhD Student, Computer Science <br>
+        BS, Electronic and Telecommunication Engineering, University of Moratuwa, 2022 <br>
+  email: hpk22@cornell.edu
+  category: PhD students
+  importance: 1
+  website: https://hasindukariyawasam.github.io/
+  redirect:  https://hasindukariyawasam.github.io/
 
 - name: Join Us!
   img: assets/img/thorlabs.png
