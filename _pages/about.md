@@ -24,4 +24,6 @@ We combine ideas from machine learning, signal processing, optics, computer visi
 
 Check out our <a href='research'>previous research projects</a> and <a href='publications'>publications</a> for more information! 
 
+Interested? Come join <a href='join'>join us</a> at Cornell!
+
 

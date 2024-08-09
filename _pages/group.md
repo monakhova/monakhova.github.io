@@ -49,3 +49,5 @@ horizontal: false
     </div>
 	{%- endfor %}
 <div class="projects">
+<br>
+<strong>Want to join us? <a href='/join'>Click here</a> to learn more!</strong>

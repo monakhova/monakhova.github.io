@@ -3,7 +3,7 @@ layout: default
 title: join
 permalink: /join/
 description: Join us!
-nav: true
+nav: false
 nav_order: 6
 display_categories: [prospective, current]
 horizontal: false
@@ -21,7 +21,7 @@ We are looking for motivated researchers interested in designing novel cameras a
 <div class ="col-sm-8">-->
 
 <h2 class="category">Prospective PhD students</h2>
-PhD applications are typically due in December. If you'd like to work with me, apply directly to the <a href="https://www.cs.cornell.edu/phd/admissions">CS department</a> and mention my name in your application. Cornell does PhD admissions via committee, so I look forward to talking to you <b>after</b> you are admitted!
+PhD applications are typically due in December. If you'd like to work with me, apply directly to the <a href="https://www.cs.cornell.edu/phd/admissions">CS department</a> and mention my name in your application. Cornell does PhD admissions via committee, so <b>please do not email me before submitting your application!</b>
 
 <p>
 The PhD program is fully funded (check out an estimate of the CS stipends vs. cost of living in Ithaca <a href="https://csstipendrankings.org/">here</a>), but I also recommend all PhD students to apply to graduate fellowships since this will give you more flexibility throughout your PhD. For domestic students, the most common fellowships are the <a href="https://www.nsfgrfp.org/">NSF GRFP</a> and the <a href = "https://ndseg.org/">NDSEG</a>. For a broader list of fellowships, please see <a href = "https://gradschool.cornell.edu/financial-support/fellowships/">Cornell's page on graduate fellowships</a> and this <a href = "https://github.com/chinasaokolo/csGraduateFellowships">curated list of CS fellowships</a>.  </p>
@@ -38,7 +38,7 @@ I encourage you to apply for a postdoctoral fellowship and am happy to work with
 
 <h2 class="category">Current Cornell students</h2>
 <span class="font-weight-bold">Cornell PhD students</span>: Send me an email and we can set up a time to chat! <br>
-<span class="font-weight-bold">Cornell undergraduate students</span>: I will be looking for undergraduate students to work with starting in Fall 2024. Check back in summer 2024 for more information.
+<span class="font-weight-bold">Cornell undergraduate students</span>: We accept several undergradudate researchers into our lab every year. Students can do research for pay, academic credit, or on a volunteer basis. If you'd like to work with us, fill out <a href="https://forms.gle/W9oFXVTX7ffjPTo6A">this form</a>.
 
 <h2 class="category"><a id="shared-values">Shared Values</a></h2>
 As a group we value:
