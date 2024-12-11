@@ -13,6 +13,12 @@ horizontal: false
 <!-- pages/group.md -->
 <!-- Display projects without categories -->
 <h1 class="post-title">team </h1>
+{% include figure.html path='assets/img/2024_winter_party.jpeg' width="100%"-%}
+<p>2024 winter end of semester celebration.</p>
+
+{% include figure.html path='assets/img/2024_fall_BBQ.jpg' width="100%"-%}
+<p>Fall 2024 BBQ.</p>
+
 <div class="projects">
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>

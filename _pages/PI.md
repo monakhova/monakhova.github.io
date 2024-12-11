@@ -41,7 +41,7 @@ profile:
           <h1 class="post-title">
            {{ site.first_name }} <span class="font-weight-bold">{{ site.last_name }}</span>, Ph.D.
           </h1>
-      <p><b>Assistant Professor</b> <br> Department of Computer Science <br> Cornell University</p>
+      <p><b>Assistant Professor</b> <br> <a href='https://www.cs.cornell.edu/'>Department of Computer Science</a> <br> <a href = 'https://www.cam.cornell.edu/cam'>Field of Applied Mathematics member</a> <br> Cornell University</p>
 	  </header>
 
 </div>
