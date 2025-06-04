@@ -20,6 +20,7 @@ We combine ideas from machine learning, signal processing, optics, computer visi
 <li> <span class="font-weight-bold">Physics-informed machine learning</span> - How can we effectively combine our knowledge of imaging system physics with deep learning? </li>
 <li> <span class="font-weight-bold">Task-based imaging systems</span> - What's the best camera or microscope for high-level tasks, such as robotics or medical diagnostics?</li>
 <li> <span class="font-weight-bold">Inverse problems and neural representations</span>: Can we leverage neural priors to improve our imaging systems for microscopy and photography? </li>
+<li> <span class="font-weight-bold">Uncertainty quantification in imaging</span>: How can we make imaging algorithms more trustworthy and robust for critical applications in science and medicine? </li>
 </ul>
 
 Check out our <a href='research'>previous research projects</a> and <a href='publications'>publications</a> for more information! 
