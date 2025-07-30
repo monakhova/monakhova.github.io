@@ -52,12 +52,22 @@ I am an Assistant Professor in the <a href="http://www.cs.cornell.edu/">Departme
 <p>
 Before Cornell, I was a postdoctoral fellow at MIT working with <a href="https://www.rle.mit.edu/yougroup/">Sixian You</a> and <a href="https://meche.mit.edu/people/faculty/gbarb@mit.edu">George Barbastathis</a>, and supported by the <a href="https://engineering.mit.edu/the-mit-postdoctoral-fellowship-program-for-engineering-excellence/">MIT Postdoctoral Fellowship for Engineering Excellence.</a>  I obtained my PhD in Electrical Engineering and Computer Sciences from UC Berkeley with <a href="http://www.laurawaller.com/">Laura Waller</a>. During my PhD, I was affiliated with the Berkeley Artificial Intelligence Research (BAIR) Lab and was supported by the NSF GRFP fellowship. My PhD dissertation was on <a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-177.html">Physics-Informed Machine Learning for Computational Imaging</a>.</p>
 
+
 <p>I lead the <span class="font-weight-bold"><a href="{{ '/' | relative_url }}">Computational Imaging Lab @ Cornell</a></span> and advise several wonderful <span class="font-weight-bold"><a href="{{ '/team/' | relative_url }}">PhD students</a></span>.</p>
+
+<details>
+  <summary>Bio in 3rd person.</summary>
+  <p>Kristina Monakhova is an Assistant Professor in the Department of Computer Science at Cornell, where she leads the Computational Imaging Lab @ Cornell. Prof. Monakhova works on co-designing optics and algorithms to create better, smaller, and more capable cameras and microscopes. Before Cornell, she was a postdoctoral fellow at MIT working with Sixian You and George Barbastathis, and supported by the MIT Postdoctoral Fellowship for Engineering Excellence.  She obtained her PhD in Electrical Engineering and Computer Sciences from UC Berkeley with aura Waller. During her PhD, she was affiliated with the Berkeley Artificial Intelligence Research (BAIR) Lab and was supported by the NSF GRFP fellowship. Her PhD dissertation was on Physics-Informed Machine Learning for Computational Imaging.
+</p>
+</details>
+<p></p>
 
 <p>
 email: monakhova[at]cornell.edu <br>
 office: Gates 446
 </p>
+
+
 
 <h2>teaching</h2>
 <p>

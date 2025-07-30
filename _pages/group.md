@@ -16,11 +16,19 @@ horizontal: false
 {% include figure.html path='assets/img/2025_spring.jpg' width="100%"-%}
 <p>2025 spring end of semester celebration.</p>
 
-{% include figure.html path='assets/img/2024_winter_party.jpeg' width="100%"-%}
-<p>2024 winter end of semester celebration.</p>
 
-{% include figure.html path='assets/img/2024_fall_BBQ.jpg' width="100%"-%}
-<p>Fall 2024 BBQ.</p>
+
+<details>
+  <summary>More pictures.</summary>
+  <p>
+	  {% include figure.html path='assets/img/2024_winter_party.jpeg' width="100%"-%}
+	  <p>2024 winter end of semester celebration.</p>
+
+	  {% include figure.html path='assets/img/2024_fall_BBQ.jpg' width="100%"-%}
+	  <p>Fall 2024 BBQ.</p>
+	  
+</p>
+</details>
 
 
 <div class="projects">
