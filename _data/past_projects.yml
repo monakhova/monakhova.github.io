@@ -22,9 +22,9 @@
   importance: 3
   website: https://waller-lab.github.io/LenslessLearning/index.html
 
-- name: Deep imaging prior for compressive photography with no training data
+- name: Compressive photography with an untrained network
   img: /assets/img/publication_preview/2021_untrained.gif
-  category: Compressive multidimensional imaging
+  category: Physics-informed machine learning
   importance: 2
   website: https://waller-lab.github.io/UDN/index.html
 
@@ -33,3 +33,27 @@
   category: Physics-informed machine learning
   importance: 1
   website: http://kristinamonakhova.com/starlight_denoising/
+
+- name: Conformal prediction for imaging inverse problems
+  img: /assets/img/publication_preview/2025_qutcc_wide.png
+  category: Robust and trustworthy imaging
+  importance: 1
+  website: https://arxiv.org/pdf/2507.14760
+
+- name: Uncertainty-driven adaptive microscopy
+  img: /assets/img/publication_preview/2025_adaptive_uncertainty.gif
+  category: Robust and trustworthy imaging
+  importance: 1
+  website: https://github.com/You-Lab-MIT/Learned_Uncertainty_Quantification
+
+- name: HDR imaging with optical randomness
+  img: /assets/img/publication_preview/fiber_bundle.png
+  category: Compressive multidimensional imaging
+  importance: 3
+  website: https://dl.acm.org/doi/10.1145/3748718
+
+- name: Hyperspectral imaging using defocus
+  img: /assets/img/publication_preview/2025_spectral_defocuscam.gif
+  category: Compressive multidimensional imaging
+  importance: 3
+  website: https://doi.org/10.1109/ICCP64821.2025.11143845

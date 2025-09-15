@@ -4,7 +4,7 @@ title: research
 permalink: /research/
 nav: true
 nav_order: 1
-project_categories: [Compressive multidimensional imaging, Physics-informed machine learning]
+project_categories: [Compressive multidimensional imaging, Physics-informed machine learning, Robust and trustworthy imaging]
 
 ---
 
