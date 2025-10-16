@@ -64,7 +64,7 @@ Before Cornell, I was a postdoctoral fellow at MIT working with <a href="https:/
 
 <p>
 email: monakhova[at]cornell.edu <br>
-office: Gates 352
+office: Gates 442B
 </p>
 
 
