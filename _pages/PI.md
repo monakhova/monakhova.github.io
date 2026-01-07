@@ -57,7 +57,7 @@ Before Cornell, I was a postdoctoral fellow at MIT working with <a href="https:/
 
 <details>
   <summary>Bio in 3rd person.</summary>
-  <p>Kristina Monakhova is an Assistant Professor in the Department of Computer Science at Cornell, where she leads the Computational Imaging Lab @ Cornell. Prof. Monakhova works on co-designing optics and algorithms to create better, smaller, and more capable cameras and microscopes. Before Cornell, she was a postdoctoral fellow at MIT working with Sixian You and George Barbastathis, and supported by the MIT Postdoctoral Fellowship for Engineering Excellence.  She obtained her PhD in Electrical Engineering and Computer Sciences from UC Berkeley with aura Waller. During her PhD, she was affiliated with the Berkeley Artificial Intelligence Research (BAIR) Lab and was supported by the NSF GRFP fellowship. Her PhD dissertation was on Physics-Informed Machine Learning for Computational Imaging.
+  <p>Kristina Monakhova is an Assistant Professor in the Department of Computer Science at Cornell, where she leads the Computational Imaging Lab @ Cornell. Prof. Monakhova works on co-designing optics and algorithms to create better, smaller, and more capable cameras and microscopes. Before Cornell, she was a postdoctoral fellow at MIT working with Sixian You and George Barbastathis, and supported by the MIT Postdoctoral Fellowship for Engineering Excellence.  She obtained her PhD in Electrical Engineering and Computer Sciences from UC Berkeley with Laura Waller. During her PhD, she was affiliated with the Berkeley Artificial Intelligence Research (BAIR) Lab and was supported by the NSF GRFP fellowship. Her PhD dissertation was on Physics-Informed Machine Learning for Computational Imaging.
 </p>
 </details>
 <p></p>
@@ -71,11 +71,12 @@ office: Gates 442B
 
 <h2>teaching</h2>
 <p>
+<span class="font-weight-bold"><a href="https://www.cs.cornell.edu/courses/cs4660/2026sp/">CS4660</a></span>: Foundations of Computational Imaging, Cornell University, Spring 2026 <br>
 <span class="font-weight-bold"><a href="https://www.cs.cornell.edu/courses/cs6662/2024fa/">CS6662</a></span>: Computational Imaging, Cornell University, Fall 2024
 </p>
 <h4>guest lectures</h4>
 <p>
-<b>ECE 285</b>: Computational Imaging Systems, UCSD, <span class="font-italic">'Robust and physics-informed machine learning for low light imaging'</span>, Spring 2024 <br>
+<b>ECE 285</b>: Computational Imaging Systems, UCSD, <span class="font-italic">'Robust and physics-informed machine learning for low light imaging'</span>, Spring 2024, Spring 2025 <br>
 <b>6.300</b>: Signal Processing, MIT, <span class="font-italic">'Computational Imaging: using signal processing to make better imaging systems'</span>, Spring 2024	
 </p>
 
