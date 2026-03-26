@@ -49,6 +49,17 @@
   website: https://hasindukariyawasam.github.io/
   redirect:  https://hasindukariyawasam.github.io/
 
+- name: Rawan Al Kubaisy
+  img: assets/img/Rawan.jpg
+  info: PhD Student, Electrical Engineering <br>
+        MS, EECS, UC Berkeley, 2022 <br>
+        BS, Electrical Engineering, UC Davis, 2019 <br>
+  email: ra648@cornell.edu
+  category: PhD students
+  importance: 1
+  website: 
+  redirect: 
+
 - name: Join Us!
   img: assets/img/thorlabs.png
   info: Click image for more info!
