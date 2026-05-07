@@ -13,14 +13,17 @@ horizontal: false
 <!-- pages/group.md -->
 <!-- Display projects without categories -->
 <h1 class="post-title">team </h1>
-{% include figure.html path='assets/img/2025_iceskating.jpg' width="100%"-%}
-<p>2025 ice skating! Happy Holidays!</p>
+{% include figure.html path='assets/img/2026_spring.jpg' width="100%"-%}
+<p>2026 A Gorges end to the spring semester!</p>
 
 
 
 <details>
   <summary>More pictures.</summary>
   <p>
+  {% include figure.html path='assets/img/2025_iceskating.jpg' width="100%"-%}
+<p>2025 ice skating! Happy Holidays!</p>
+
   {% include figure.html path='assets/img/2025_spring.jpg' width="100%"-%}
 <p>2025 spring end of semester celebration.</p> 
 
