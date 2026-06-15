@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Kristina is giving and invited talk on "Trustworthy computational imaging with uncertainty quantification" at <a href="https://iccp2026.iccp-conference.org/#program">ICCP</a> in Princeton on July 13th!
+Kristina is giving an invited talk on "Trustworthy computational imaging with uncertainty quantification" at <a href="https://iccp2026.iccp-conference.org/#program">ICCP</a> in Princeton on July 13th!
