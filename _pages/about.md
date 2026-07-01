@@ -28,6 +28,11 @@ Check out our <a href='research'>previous research projects</a> and <a href='pub
 
 Interested? Come join <a href='join'>join us</a> at Cornell!
 
+The Computational Imaging Lab @ Cornell is supported by an <a href=
+"https://www.amazon.science/research-awards/recipients/kristina-monakhova">Amazon Research Award</a> and startup funding from Bowers CIS. 
+
+
+
 
 
 

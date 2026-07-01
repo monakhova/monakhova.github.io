@@ -67,6 +67,15 @@ email: monakhova[at]cornell.edu <br>
 office: Gates 442B
 </p>
 
+<p> Recent talk recordings can be found here: 
+
+<ul>
+  <li> <a href="https://www.youtube.com/watch?v=hBiP4nIRv40">"Trustworthy and adaptive extreme low light imaging", University of Toronto Vision Seminar, Oct. 2024 </a></li>
+  <li> <a href="https://www.youtube.com/watch?v=mx99M-5W5ZY">"Designing Better Cameras for Intelligent Systems", RoboLaunch 2023 (geared towards undergraduate students) </a></li>
+
+</ul>
+
+</p>
 
 
 <h2>teaching</h2>
