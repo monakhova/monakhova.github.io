@@ -1,0 +1,73 @@
+{% comment %}
+Usage: {% include photo-slider.liquid images=page.slider_images id="my-slider" %}
+Each item in images needs a "path" and optional "alt" (used for caption + accessibility).
+{% endcomment %}
+
+<div class="photo-slider" id="{{ include.id | default: 'photo-slider' }}">
+  <div class="photo-slider-track">
+    {% for img in include.images %}
+      <div class="photo-slider-slide {% if forloop.first %}active{% endif %}">
+        <img src="{{ img.path | relative_url }}" alt="{{ img.alt | default: '' }}">
+        {% if img.alt %}
+          <div class="photo-slider-caption">{{ img.alt }}</div>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+  <button class="photo-slider-btn prev" aria-label="Previous slide">&#10094;</button>
+  <button class="photo-slider-btn next" aria-label="Next slide">&#10095;</button>
+  <div class="photo-slider-dots">
+    {% for img in include.images %}
+      <span class="dot {% if forloop.first %}active{% endif %}"></span>
+    {% endfor %}
+  </div>
+</div>
+
+<style>
+.photo-slider { position: relative; max-width: 100%; margin: 1.5rem 0; overflow: hidden; border-radius: 8px; }
+.photo-slider-track { display: flex; transition: transform 0.4s ease-in-out; }
+.photo-slider-slide { min-width: 100%; position: relative; }
+.photo-slider-slide img { width: 100%; display: block; object-fit: cover; max-height: 480px; }
+.photo-slider-caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0,0,0,0.55);
+  color: #fff;
+  padding: 0.5rem 1rem;
+  font-size: 0.9rem;
+  text-align: center;
+}
+.photo-slider-btn { position: absolute; top: 50%; transform: translateY(-50%); background: rgba(0,0,0,0.4); color: #fff; border: none; padding: 0.5rem 0.75rem; cursor: pointer; border-radius: 50%; font-size: 1rem; }
+.photo-slider-btn.prev { left: 10px; }
+.photo-slider-btn.next { right: 10px; }
+.photo-slider-dots { position: absolute; bottom: 34px; width: 100%; text-align: center; }
+.photo-slider-dots .dot { display: inline-block; width: 8px; height: 8px; margin: 0 4px; background: rgba(255,255,255,0.6); border-radius: 50%; cursor: pointer; }
+.photo-slider-dots .dot.active { background: #fff; }
+</style>
+
+<script>
+(function () {
+  const slider = document.getElementById("{{ include.id | default: 'photo-slider' }}");
+  if (!slider) return;
+  const track = slider.querySelector(".photo-slider-track");
+  const slides = slider.querySelectorAll(".photo-slider-slide");
+  const dots = slider.querySelectorAll(".dot");
+  let index = 0;
+
+  function goTo(i) {
+    index = (i + slides.length) % slides.length;
+    track.style.transform = `translateX(-${index * 100}%)`;
+    dots.forEach((d, di) => d.classList.toggle("active", di === index));
+  }
+
+  slider.querySelector(".prev").addEventListener("click", () => goTo(index - 1));
+  slider.querySelector(".next").addEventListener("click", () => goTo(index + 1));
+  dots.forEach((dot, i) => dot.addEventListener("click", () => goTo(i)));
+
+  let autoplay = setInterval(() => goTo(index + 1), 5000);
+  slider.addEventListener("mouseenter", () => clearInterval(autoplay));
+  slider.addEventListener("mouseleave", () => autoplay = setInterval(() => goTo(index + 1), 5000));
+})();
+</script>

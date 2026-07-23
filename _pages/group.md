@@ -8,38 +8,25 @@ nav_order: 5
 display_categories: [Professor, PhD students, Alumni]
 display_alumni: [Undergraduates mentored at MIT, Undergraduates mentored at UC Berkeley]
 horizontal: false
+slider_images:
+  - path: assets/img/2026_iccp.jpg
+    alt: "2026 ICCP in Princeton"
+  - path: assets/img/2026_spring.jpg
+    alt: "2026 A Gorges end to the spring semester!"
+  - path: assets/img/2025_iceskating.jpg
+    alt: "2025 ice skating! Happy Holidays!"
+  - path: assets/img/2025_spring.jpg
+    alt: "2025 spring end of semester celebration"
+  - path: assets/img/2024_winter_party.jpeg
+    alt: "2024 winter end of semester celebration."
+  - path: assets/img/2024_fall_BBQ.jpg
+    alt: "Fall 2024 BBQ."
 ---
-
-
 
 <!-- pages/group.md -->
 <!-- Display projects without categories -->
-<h1 class="post-title">team </h1>
-{% include figure.html path='assets/img/2026_iccp.jpg' width="100%"-%}
-<p>2026 ICCP in Princeton!</p>
 
-
-
-<details>
-  <summary>More pictures.</summary>
-  <p>
-  {% include figure.html path='assets/img/2026_spring.jpg' width="100%"-%}
-  <p>2026 A Gorges end to the spring semester!</p>
-
-  {% include figure.html path='assets/img/2025_iceskating.jpg' width="100%"-%}
-<p>2025 ice skating! Happy Holidays!</p>
-
-  {% include figure.html path='assets/img/2025_spring.jpg' width="100%"-%}
-<p>2025 spring end of semester celebration.</p> 
-
-	  {% include figure.html path='assets/img/2024_winter_party.jpeg' width="100%"-%}
-	  <p>2024 winter end of semester celebration.</p>
-
-	  {% include figure.html path='assets/img/2024_fall_BBQ.jpg' width="100%"-%}
-	  <p>Fall 2024 BBQ.</p>
-	  
-</p>
-</details>
+{% include photo-slider.liquid images=page.slider_images id="group-photos-slider" %}
 
 
 <div class="projects">
