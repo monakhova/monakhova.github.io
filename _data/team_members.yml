@@ -8,6 +8,16 @@
   website: https://kristinamonakhova.com/kristina/
   redirect: https://kristinamonakhova.com/kristina/
 
+- name: Nora Gera
+  img: assets/img/Nora.JPG
+  info: PhD Student, Computer Science <br>
+        BS Computer Science with minor in Biomedical Engineering, Cornell University, 2021 <br>
+  email: nkg29@cornell.edu
+  category: PhD students
+  importance: 2
+  website: https://ngera1.github.io/
+  redirect: https://ngera1.github.io/
+
 - name: Shamus Li 
   img: assets/img/shamus.jpg
   info: PhD Student, Computer Science <br>

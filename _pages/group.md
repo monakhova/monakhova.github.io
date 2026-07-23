@@ -10,17 +10,22 @@ display_alumni: [Undergraduates mentored at MIT, Undergraduates mentored at UC B
 horizontal: false
 ---
 
+
+
 <!-- pages/group.md -->
 <!-- Display projects without categories -->
 <h1 class="post-title">team </h1>
-{% include figure.html path='assets/img/2026_spring.jpg' width="100%"-%}
-<p>2026 A Gorges end to the spring semester!</p>
+{% include figure.html path='assets/img/2026_iccp.jpg' width="100%"-%}
+<p>2026 ICCP in Princeton!</p>
 
 
 
 <details>
   <summary>More pictures.</summary>
   <p>
+  {% include figure.html path='assets/img/2026_spring.jpg' width="100%"-%}
+  <p>2026 A Gorges end to the spring semester!</p>
+
   {% include figure.html path='assets/img/2025_iceskating.jpg' width="100%"-%}
 <p>2025 ice skating! Happy Holidays!</p>
 
