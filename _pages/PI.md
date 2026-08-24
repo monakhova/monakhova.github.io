@@ -48,19 +48,9 @@ profile:
 
 <div>
 <p>		
-I am an Assistant Professor in the <a href="http://www.cs.cornell.edu/">Department of Computer Science</a> at Cornell. I work on co-designing optics and algorithms to create better, smaller, and more capable cameras and microscopes.</p>
-<p>
-Before Cornell, I was a postdoctoral fellow at MIT working with <a href="https://www.rle.mit.edu/yougroup/">Sixian You</a> and <a href="https://meche.mit.edu/people/faculty/gbarb@mit.edu">George Barbastathis</a>, and supported by the <a href="https://engineering.mit.edu/the-mit-postdoctoral-fellowship-program-for-engineering-excellence/">MIT Postdoctoral Fellowship for Engineering Excellence.</a>  I obtained my PhD in Electrical Engineering and Computer Sciences from UC Berkeley with <a href="http://www.laurawaller.com/">Laura Waller</a>. During my PhD, I was affiliated with the Berkeley Artificial Intelligence Research (BAIR) Lab and was supported by the NSF GRFP fellowship. My PhD dissertation was on <a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-177.html">Physics-Informed Machine Learning for Computational Imaging</a>.</p>
+Kristina Monakhova is an Assistant Professor in the <a href="http://www.cs.cornell.edu/">Department of Computer Science</a> at Cornell, where she leads the <span class="font-weight-bold"><a href="{{ '/' | relative_url }}">Computational Imaging Lab @ Cornell</a></span> and advises several wonderful <span class="font-weight-bold"><a href="{{ '/team/' | relative_url }}">PhD students</a></span>. Her group works on co-designing optics and algorithms to create better, smaller, and more capable cameras and microscopes. Prior to joining Cornell, she was a postdoctoral fellow at MIT with <a href="https://www.rle.mit.edu/yougroup/">Sixian You</a> and <a href="https://meche.mit.edu/people/faculty/gbarb@mit.edu">George Barbastathis</a>.  She obtained her PhD in Electrical Engineering and Computer Sciences from UC Berkeley with <a href="http://www.laurawaller.com/">Laura Waller</a>. Her PhD dissertation was on <a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-177.html">Physics-Informed Machine Learning for Computational Imaging</a>. She is the recipient of the <a href="https://engineering.mit.edu/engineering-excellence">MIT Postdoctoral Fellowship for Engineering Excellence</a>,  <a href="https://www2.eecs.berkeley.edu/Students/Awards/1/">Berkeley EECS Demetri Angelakos Memorial Achievement Award</a>, <a href = "https://www.nsfgrfp.org/">NSF GRFP</a>,<a href="https://ndseg.sysplus.com/"> NDSEG Fellowship</a>, and <a href="https://goldwaterscholarship.gov/">Goldwater Scholarship</a>. </p> 
 
 
-<p>I lead the <span class="font-weight-bold"><a href="{{ '/' | relative_url }}">Computational Imaging Lab @ Cornell</a></span> and advise several wonderful <span class="font-weight-bold"><a href="{{ '/team/' | relative_url }}">PhD students</a></span>.</p>
-
-<details>
-  <summary>Bio in 3rd person.</summary>
-  <p>Kristina Monakhova is an Assistant Professor in the Department of Computer Science at Cornell, where she leads the Computational Imaging Lab @ Cornell. Prof. Monakhova works on co-designing optics and algorithms to create better, smaller, and more capable cameras and microscopes. Before Cornell, she was a postdoctoral fellow at MIT working with Sixian You and George Barbastathis, and supported by the MIT Postdoctoral Fellowship for Engineering Excellence.  She obtained her PhD in Electrical Engineering and Computer Sciences from UC Berkeley with Laura Waller. During her PhD, she was affiliated with the Berkeley Artificial Intelligence Research (BAIR) Lab and was supported by the NSF GRFP fellowship. Her PhD dissertation was on Physics-Informed Machine Learning for Computational Imaging.
-</p>
-</details>
-<p></p>
 
 <p>
 email: monakhova[at]cornell.edu <br>
@@ -70,8 +60,9 @@ office: Gates 442B
 <p> Recent talk recordings can be found here: 
 
 <ul>
-  <li> <a href="https://www.youtube.com/watch?v=hBiP4nIRv40">"Trustworthy and adaptive extreme low light imaging", University of Toronto Vision Seminar, Oct. 2024 </a></li>
-  <li> <a href="https://www.youtube.com/watch?v=mx99M-5W5ZY">"Designing Better Cameras for Intelligent Systems", RoboLaunch 2023 (geared towards undergraduate students) </a></li>
+<li> <a href="https://www.youtube.com/watch?v=6bMRZyn806E&list=PLRtYf_RfISLg&index=2">"Trustworthy computational imaging with uncertainty quantification"</a>, ICCP invited talk, July. 2026 </li>
+  <li> <a href="https://www.youtube.com/watch?v=hBiP4nIRv40">"Trustworthy and adaptive extreme low light imaging" </a>, University of Toronto Vision Seminar, Oct. 2024</li>
+  <li> <a href="https://www.youtube.com/watch?v=mx99M-5W5ZY">"Designing Better Cameras for Intelligent Systems"</a>, RoboLaunch 2023 (geared towards undergraduate students) </li>
 
 </ul>
 
@@ -80,6 +71,7 @@ office: Gates 442B
 
 <h2>teaching</h2>
 <p>
+<span class="font-weight-bold"><a href="https://www.cs.cornell.edu/courses/cs4620/">CS4620</a></span>: Intro to Computer Graphics, Cornell University, Fall 2026 (co-taught with Abe Davis)<br>
 <span class="font-weight-bold"><a href="https://www.cs.cornell.edu/courses/cs4660/2026sp/">CS4660</a></span>: Foundations of Computational Imaging, Cornell University, Spring 2026 <br>
 <span class="font-weight-bold"><a href="https://www.cs.cornell.edu/courses/cs6662/2024fa/">CS6662</a></span>: Computational Imaging, Cornell University, Fall 2024
 </p>
