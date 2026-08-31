@@ -8,7 +8,7 @@ category: PI
 
 profile:
   align: left
-  image: Kristina_Monakhova.jpg
+  image: Kristina Monakhova_024.jpeg
   image_circular: true # crops the image to make it circular
     
 
