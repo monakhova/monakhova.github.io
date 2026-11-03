@@ -27,14 +27,10 @@ PhD applications are typically due in December. If you'd like to work with me, a
 The PhD program is fully funded (check out an estimate of the CS stipends vs. cost of living in Ithaca <a href="https://csstipendrankings.org/">here</a>), but I also recommend all PhD students to apply to graduate fellowships since this will give you more flexibility throughout your PhD. For domestic students, the most common fellowships are the <a href="https://www.nsfgrfp.org/">NSF GRFP</a> and the <a href = "https://ndseg.org/">NDSEG</a>. For a broader list of fellowships, please see <a href = "https://gradschool.cornell.edu/financial-support/fellowships/">Cornell's page on graduate fellowships</a> and this <a href = "https://github.com/chinasaokolo/csGraduateFellowships">curated list of CS fellowships</a>.  </p>
 <h2 class="category">Prospective Postdocs</h2>
 <p>
-Excellent postdoctoral candidates are encouraged to email me with the subject line including the words <b>"Prospective Postdoc"</b> to discuss current openings. In your email please include: 
-	<ul>
-	  <li>Your CV with a publication list</li>
-	  <li>Short description of past and future research interests</li>
-	  <li>Names and contact info of 2 academic references</li>
-	</ul>
-	
-I encourage you to apply for a postdoctoral fellowship and am happy to work with you on this. <br><br> </p>
+<span class="font-weight-bold">[Nov. 2026 Update]</span> Excellent postdoctoral candidates at the intersection of computational imaging and AI are welcome to apply to the <a href=" https://academicjobsonline.org/ajo/jobs/33230">Foundational AI Fellows Program program</a>. This is a fully funded postdoctoral fellowship at Cornell University in Ithaca or NYC, with an application deadline of Dec. 15, 2026. This fellowship may or may not be recurring, so check back next year if you miss the deadline. I do not currently have funding for a postdoc unless they have a fellowship.</p>
+
+<p>
+If you are considering applying to this fellowhip and work at the intersection of computational imaging and AI (e.g. generative priors for inverse problems, uncertainty quantification in inverse problems, learning for hybrid optical-digital systems), feel free to send me an email with the subject line "Prospective Postdoc Foundational AI Fellowship". <br> </p>
 
 <h2 class="category">Current Cornell students</h2>
 <span class="font-weight-bold">Cornell PhD students</span>: Send me an email and we can set up a time to chat! <br>
